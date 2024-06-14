@@ -2,9 +2,6 @@
 # 🛒 Grocery Store Management System
 
 Welcome to the **Grocery Store Management System** by Onesmus Bett Co. 🌟 - An intuitive and efficient solution for managing grocery store operations, built with Python and PyQt5.
-
-![Grocery Store Management](https://via.placeholder.com/800x200.png?text=Grocery+Store+Management+System)  <!-- Replace with an actual image URL -->
-
 ## 🚀 Features
 
 - **Sales Management**: Record and track new sales.
