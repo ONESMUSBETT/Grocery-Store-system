@@ -1,6 +1,3 @@
-Thank you for the clarification. Here's a detailed and appealing GitHub README for your project, tailored to highlight its PyQt5 GUI functionality for managing sales and other related tasks:
-
----
 
 # 🛒 Grocery Store Management System
 
